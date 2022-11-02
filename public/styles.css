@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  float: none;
+}
+
+.movieContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.movieCard {
+  justify-content: center;
+  align-items: center;
+}
+
+.movieCard img {
+  width: 300px;
+}
